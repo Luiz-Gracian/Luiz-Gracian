@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Welcome to my repository where I will be posting some works/projects that I've been developing since 2020.
+Welcome to my repository where I will be posting some works/projects that I've been developing since 2020.
 
 <!--
 **Luiz-Gracian/Luiz-Gracian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
