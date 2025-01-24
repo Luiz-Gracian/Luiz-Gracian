@@ -3,7 +3,7 @@
 Welcome to my repository where I will be posting some works/projects that I've developed since 2020.
 
 
-- 🔭 I’m currently working as a Data Analyst at DPU.
+- 🔭 I’m currently working as a Data Scientist at Heath Minister Brazil.
 - 🌱 I’m currently learning Deep Learning Pipelines.
 
 Main Tools:
